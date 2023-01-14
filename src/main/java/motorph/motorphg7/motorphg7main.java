@@ -11,7 +11,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class motorphg7 {
+public class motorphg7main {
    
     public static void authentication (String[] args) {
         Scanner sc = new Scanner(System.in);
